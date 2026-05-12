@@ -1,5 +1,4 @@
 # RideFlow-System
-Here's the full README description:
 
 ---
 
