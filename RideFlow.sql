@@ -523,5 +523,3 @@ VALUES
     ('bike',    30.00, 12.00,  1.50, 1.00, 0);
     
 ALTER TABLE drivers ADD COLUMN is_flagged TINYINT(1) NOT NULL DEFAULT 0;
-
-SELECT user_id, full_name, wallet_balance FROM users;
