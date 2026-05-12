@@ -22,9 +22,8 @@ RideFlow is a ride-hailing platform inspired by Uber and Careem, built as a Data
 
 **Project Structure**
 
-- `rideflow.sql` — full database schema, procedures, triggers, and seed data
-- `index.html` — main UI/UX frontend file
+- `RideFlow.sql` — full database schema, procedures, triggers, and seed data
+- `RideFlow_UIUX.html` — main UI/UX frontend file
 
 ---
 
-Just replace `rideflow.sql` and `index.html` with your actual filenames if they're different.
