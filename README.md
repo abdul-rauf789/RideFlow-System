@@ -1,2 +1,2 @@
 # RideFlow-System
-A full-stack ride-hailing platform with MySQL database, live UI, and modules for rides, payments, drivers, and ratings.
+RideFlow is a ride-hailing platform inspired by Uber and Careem, built as a Database Systems semester project at FAST NUCES. It features a complete MySQL backend with seven interconnected modules covering user management, ride lifecycle tracking, driver and vehicle verification, fare calculation with surge pricing, promo codes, payment processing, and a mutual ratings system. The system includes stored procedures for automated fare computation, triggers for driver flagging, role-based access control using MySQL DCL commands, and a live JavaScript frontend UI.
